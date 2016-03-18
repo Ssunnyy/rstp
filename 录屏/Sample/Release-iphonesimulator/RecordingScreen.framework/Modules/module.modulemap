@@ -1,0 +1,6 @@
+framework module RecordingScreen {
+  umbrella header "RecordingScreen.h"
+
+  export *
+  module * { export * }
+}
